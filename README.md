@@ -23,7 +23,7 @@ i)	#Selection Sort
 ''' 
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: Ganesh R
-RegisterNumber: 22009090
+RegisterNumber: 212222240029
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -46,7 +46,7 @@ ii)	#Insertion Sort
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: Ganesh R
-RegisterNumber: 22009090
+RegisterNumber: 2122222400029
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -62,8 +62,7 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](./Web%20capture_25-1-2023_142614_lms.ai.saveetha.ac.in.jpeg)
-![output](./Web%20capture_25-1-2023_142639_lms.ai.saveetha.ac.in.jpeg)
-
+![output](./py1.png)
+![output](./py2.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
